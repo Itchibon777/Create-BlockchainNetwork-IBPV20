@@ -15,8 +15,8 @@
     "author": "Laura Bennett",
     "license": "Apache-2.0",
     "dependencies": {
-        "fabric-contract-api": "^2.2.1",
-        "fabric-shim": "^2.0.0"
+        "fabric-contract-api": "^2.4.2",
+        "fabric-shim": "^2.5.6"
     },
     "devDependencies": {
         "eslint": "^6.8.0"
